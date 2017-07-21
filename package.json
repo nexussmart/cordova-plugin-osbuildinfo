@@ -1,5 +1,5 @@
 {
-  "name": "os_build_info",
+  "name": "com.example.cordova.info",
   "version": "1.0.0",
   "description": "[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)",
   "main": "index.js",
@@ -10,8 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/nexussmart/cordova-plugin-osbuildinfo.git"
   },
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "[]"
+  ],
+  "author": "Volpy",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/nexussmart/cordova-plugin-osbuildinfo/issues"
   },
